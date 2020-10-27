@@ -1,0 +1,7 @@
+{
+  "name": "widgetstore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
